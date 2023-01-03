@@ -21,7 +21,7 @@
 
 * TESLA / t'es plus là (French)
 
-<img src="/Images/TESLA.JPG" width="60%" height="60%">
+<img src="/Images/TESLA.jpg" width="60%" height="60%">
 
 * We are too buysy
 
