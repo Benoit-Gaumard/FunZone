@@ -19,4 +19,7 @@
 
 <img src="/Images/Small-Steps.JPG" width="60%" height="60%">
 
+* TESLA / t'es plus là (French)
+
+<img src="/Images/TESLA.JPG" width="60%" height="60%">
 
