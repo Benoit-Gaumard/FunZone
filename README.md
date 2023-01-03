@@ -17,6 +17,6 @@
 
 * Importance of small steps
 
-![Small-Steps](/Small-Steps.JPG "Small-Steps")
+![Small-Steps](/Images/Small-Steps.JPG "Small-Steps")
 
 
