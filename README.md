@@ -6,3 +6,17 @@
 * How Standards proliferate
 
 ![Standards](/Images/Standards.png "How Standards proliferate")
+
+* CISO
+
+![CISO](/Images/CISO.JPG "CISO")
+
+* FrontEnd / BackEnd
+
+![FrontEnd-BackEnd](/Images/FrontEnd-BackEnd.JPG "FrontEnd-BackEnd")
+
+* Importance of small steps
+
+![Small-Steps](/Small-Steps.JPG "Small-Steps")
+
+
