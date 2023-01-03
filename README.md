@@ -19,4 +19,6 @@
 
 ![Small-Steps](/Images/Small-Steps.JPG "Small-Steps")
 
+<img src="/Images/Small-Steps.JPG" width="80%" height="80%">
+
 
