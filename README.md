@@ -23,6 +23,10 @@
 
 <img src="/Images/TESLA.jpg" width="60%" height="60%">
 
-* We are too buysy
+* We are too busy
 
 <img src="/Images/square-wheels-round-wheels.jpg" width="60%" height="60%">
+
+* We are too busy
+
+<img src="/Images/thanks-busy.jpg" width="60%" height="60%">
