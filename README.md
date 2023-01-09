@@ -30,3 +30,8 @@
 * We are too busy
 
 <img src="/Images/thanks-busy.jpg" width="60%" height="60%">
+
+* 2 factors authentication
+
+<img src="/Images/authentification-2-facteurs.png" width="60%" height="60%">
+
