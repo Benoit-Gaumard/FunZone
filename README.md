@@ -1,4 +1,3 @@
-
 * Evolution of Operation
 
 <img src="/Images/EvOPS.jpg" width="60%" height="60%">
@@ -35,3 +34,10 @@
 
 <img src="/Images/authentification-2-facteurs.png" width="60%" height="60%">
 
+* Pizza as a service
+
+<img src="/Images/Pizza-as-a-Service-Microsoft-Azure.jpg" width="60%" height="60%">
+
+* Every Cloud Architecture
+
+<img src="/Images/Every_Cloud_Architecture-1.png" width="60%" height="60%">
