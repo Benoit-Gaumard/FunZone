@@ -41,3 +41,7 @@
 * Every Cloud Architecture
 
 <img src="/Images/Every_Cloud_Architecture-1.png" width="60%" height="60%">
+
+* How to regex
+
+<img src="/Images/how-to-regex.jpg" width="60%" height="60%">
