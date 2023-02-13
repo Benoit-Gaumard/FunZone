@@ -53,3 +53,7 @@
 * The perfect date
 
 <img src="/Images/perfect-date.jpg" width="60%" height="60%">
+
+* They asked an AI engine to recreate "a salmon swimming down a river"
+
+<img src="/Images/IA-Salmon.jpg" width="60%" height="60%">
