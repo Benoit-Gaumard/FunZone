@@ -52,4 +52,4 @@
 
 * The perfect date
 
-<img src="/Images/test-in-prod.jpg" width="60%" height="60%">
+<img src="/Images/perfect-date.jpg" width="60%" height="60%">
