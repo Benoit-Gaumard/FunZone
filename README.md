@@ -57,3 +57,11 @@
 * They asked an AI engine to recreate "a salmon swimming down a river"
 
 <img src="/Images/IA-Salmon.jpg" width="60%" height="60%">
+
+* Bullshit job
+
+<img src="/Images/bullshit-job.PNG" width="60%" height="60%">
+
+* First table
+
+<img src="/Images/first-table.JPG" width="60%" height="60%">
