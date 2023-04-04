@@ -65,3 +65,23 @@
 * First table
 
 <img src="/Images/first-table.JPG" width="60%" height="60%">
+
+* Backend burger
+
+<img src="/Images/backend-burger.jpg" width="60%" height="60%">
+
+* Can you do it cheaper
+
+<img src="/Images/cheap.png" width="60%" height="60%">
+
+* Data Lake
+
+<img src="/Images/data-lake.jpg" width="60%" height="60%">
+
+* The job
+
+<img src="/Images/job.jpg" width="60%" height="60%">
+
+* Robots ans humans
+
+<img src="/Images/robots-humans.jpg" width="60%" height="60%">
