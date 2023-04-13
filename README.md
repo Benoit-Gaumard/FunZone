@@ -86,6 +86,6 @@
 
 <img src="/Images/robots-humans.jpg" width="60%" height="60%">
 
-* RHow to scare a ciso
+* How to scare a ciso
 
 <img src="/Images/how-to-scare-a-ciso.jpg" width="60%" height="60%">
