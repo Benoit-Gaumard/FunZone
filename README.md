@@ -89,3 +89,7 @@
 * How to scare a ciso
 
 <img src="/Images/how-to-scare-a-ciso.jpg" width="60%" height="60%">
+
+* How to scare a ciso
+
+<img src="/Images/monolithic-vs-microservices.png" width="60%" height="60%">
