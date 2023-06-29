@@ -92,4 +92,4 @@
 
 * How to scare a ciso
 
-<img src="/Images/monolithic-vs-microservices.png" width="60%" height="60%">
+<img src="/Images/monolithic-vs-microservices.jpg" width="60%" height="60%">
