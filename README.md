@@ -90,6 +90,6 @@
 
 <img src="/Images/how-to-scare-a-ciso.jpg" width="60%" height="60%">
 
-* How to scare a ciso
+* Monolithic vs Microservices
 
 <img src="/Images/monolithic-vs-microservices.jpg" width="60%" height="60%">
