@@ -93,3 +93,8 @@
 * Monolithic vs Microservices
 
 <img src="/Images/monolithic-vs-microservices.jpg" width="60%" height="60%">
+
+* DevOps burger
+
+<img src="/Images/devops-burger.jpeg" width="60%" height="60%">
+
