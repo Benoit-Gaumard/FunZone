@@ -100,5 +100,5 @@
 
 * Slip
 
-<img src="/Images/slip.jpeg" width="60%" height="60%">
+<img src="/Images/slip.jpg" width="60%" height="60%">
 
