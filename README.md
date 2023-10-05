@@ -110,5 +110,5 @@
 
 * Langage
 
-<img src="/Images/Codes.jpg" width="60%" height="60%">
+<img src="/Images/Langage.jpg" width="60%" height="60%">
 
