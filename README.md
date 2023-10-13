@@ -38,6 +38,10 @@
 
 <img src="/Images/Pizza-as-a-Service-Microsoft-Azure.jpg" width="60%" height="60%">
 
+* Pizza as a service
+
+<img src="/Images/pizza as a service.jpeg" width="60%" height="60%">
+
 * Every Cloud Architecture
 
 <img src="/Images/Every_Cloud_Architecture-1.png" width="60%" height="60%">
